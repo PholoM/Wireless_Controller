@@ -1,0 +1,7 @@
+../Core/Src/switches.c:17:6:set_steeringMode	3
+../Core/Src/switches.c:24:6:set_driveMode	3
+../Core/Src/switches.c:31:6:set_screenLight	2
+../Core/Src/switches.c:38:6:set_SW2_variable	2
+../Core/Src/switches.c:46:6:set_SW1_variable	2
+../Core/Src/switches.c:53:6:switches_Init	1
+../Core/Src/switches.c:61:6:switches_poll	1

@@ -1,0 +1,7 @@
+../Core/Src/switches.c:17:6:set_steeringMode	8	static
+../Core/Src/switches.c:24:6:set_driveMode	8	static
+../Core/Src/switches.c:31:6:set_screenLight	8	static
+../Core/Src/switches.c:38:6:set_SW2_variable	8	static
+../Core/Src/switches.c:46:6:set_SW1_variable	8	static
+../Core/Src/switches.c:53:6:switches_Init	8	static
+../Core/Src/switches.c:61:6:switches_poll	8	static

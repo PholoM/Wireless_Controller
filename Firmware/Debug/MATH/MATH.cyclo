@@ -1,0 +1,4 @@
+../MATH/MATH.c:15:10:MAP	1
+../MATH/MATH.c:20:10:Constrain	3
+../MATH/MATH.c:36:15:MIN	3
+../MATH/MATH.c:51:15:MAX	3

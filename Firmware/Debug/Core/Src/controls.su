@@ -1,0 +1,2 @@
+../Core/Src/controls.c:13:6:get_Speed	4	static
+../Core/Src/controls.c:19:6:get_Steer_angle	4	static
